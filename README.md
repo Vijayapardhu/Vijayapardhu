@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Pardhu</h1>
+<h1 align="center">Hi 👋, I'm Vijaya Pardhu</h1>
 <h3 align="center">Student | Android & Web Developer | Firebase Enthusiast</h3>
 
 <p align="center">
