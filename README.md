@@ -35,8 +35,8 @@
     <br><br>
     💡 <b>Self-driven learner</b> & Firebase enthusiast<br>
     🏆 Developed <b>10+ Android apps</b> powered by Firebase<br>
-    🎨 Founder of <b>MetaVolt Production</b> (tech-creative brand)<br>
-    📚 Currently learning After Effects & graphic design
+    🎨 Founder of <b>MetaVolt Production</b> (tech + creative brand)<br>
+    📚 Currently exploring After Effects & Graphic Design
   </td>
   <td align="center" width="130">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Coder GIF">
@@ -77,50 +77,50 @@
 
 ## 🚀 Projects
 
-Click to expand and explore each project!
+Click to explore each project:
 
 <details>
   <summary>✝️ <b>Church App</b></summary>
   <ul>
-    <li>Telugu Bible, voice messages, daily quotes, and prayer requests</li>
+    <li>Telugu Bible, daily voice messages, quotes, and prayer requests</li>
     <li>Powered by Firebase backend</li>
   </ul>
 </details>
 <details>
-  <summary>📱 <b>Skyline (College Social App)</b></summary>
+  <summary>📱 <b>Skyline – College Social App</b></summary>
   <ul>
-    <li>Instagram-like app: chat, stories, admin-user split</li>
-    <li>Built with Sketchware + Firebase</li>
+    <li>Instagram-style app with chat, stories, admin-user split</li>
+    <li>Built using Sketchware + Firebase</li>
   </ul>
 </details>
 <details>
   <summary>🎨 <b>MetaVolt Production</b></summary>
   <ul>
-    <li>Tech-creative brand for logo design, app & service development</li>
+    <li>Creative tech brand for logo design and app services</li>
   </ul>
 </details>
 <details>
   <summary>🛒 <b>E-commerce App</b></summary>
   <ul>
-    <li>Flipkart-style: admin/user panels, built with Firebase</li>
+    <li>Flipkart-style: user/admin panel, Firebase-powered</li>
   </ul>
 </details>
 <details>
   <summary>🪪 <b>College Fest Token Generator</b></summary>
   <ul>
-    <li>Web app for “Colours Fest 2025” entry passes</li>
+    <li>Web app for generating “Colours Fest 2025” entry passes</li>
   </ul>
 </details>
 <details>
   <summary>🎙️ <b>Voice Weather Bot</b></summary>
   <ul>
-    <li>Python-based, WeatherAPI + voice interface</li>
+    <li>Weather info using Python + Voice interface + WeatherAPI</li>
   </ul>
 </details>
 <details>
-  <summary>🧠 <b>Student Mental Health Consultant App</b></summary>
+  <summary>🧠 <b>Mental Health Consultant App</b></summary>
   <ul>
-    <li>Supporting student wellbeing with technology</li>
+    <li>Android app for supporting students' mental wellbeing</li>
   </ul>
 </details>
 
@@ -129,29 +129,29 @@ Click to expand and explore each project!
 ## 🏅 Achievements
 
 | 🚀 What | 🌟 Details |
-|--------|------|
-| **Android Apps Developed** | 10+ using Firebase |
-| **Firebase Expert** | Auth, Realtime DB, Firestore, Storage |
-| **Mental Health Support** | Built a student consultant app |
-| **Diploma (CME)** | 76% aggregate |
+|--------|------------|
+| **Android Apps Developed** | 10+ apps using Firebase |
+| **Firebase Skills** | Auth, Realtime DB, Firestore, Storage |
+| **Mental Health Support** | Built a dedicated student app |
+| **Diploma in CME** | 76% aggregate |
 | **SSC Score** | 485/600 |
-| **Creative Skills** | Self-learner in video & graphic design |
+| **Creative Mindset** | Self-taught graphic/video editor |
 
 ---
 
 ## 🎯 Hobbies & Interests
 
 <details>
-  <summary>🎬 <b>Video Editing & Tech YouTube Content</b></summary>
-  <ul><li>I love editing videos and sharing tech tips on YouTube!</li></ul>
+  <summary>🎬 <b>Video Editing & Tech YouTube</b></summary>
+  <ul><li>I enjoy editing tech videos and sharing knowledge on YouTube.</li></ul>
 </details>
 <details>
-  <summary>✝️ <b>Church Projects & Spiritual Apps</b></summary>
-  <ul><li>Passionate about using tech for spiritual growth.</li></ul>
+  <summary>✝️ <b>Church Tech Projects</b></summary>
+  <ul><li>Using technology to enhance spiritual engagement.</li></ul>
 </details>
 <details>
-  <summary>🎮 <b>Gaming, App Building, and API Exploration</b></summary>
-  <ul><li>Always ready to game, build, and discover new APIs!</li></ul>
+  <summary>🎮 <b>Gaming & App Experiments</b></summary>
+  <ul><li>Love experimenting with APIs, building apps, and casual gaming.</li></ul>
 </details>
 
 ---
@@ -161,9 +161,6 @@ Click to expand and explore each project!
 <p align="left">
   <a href="https://github.com/Vijayapardhu">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:vijaypardhu17@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -176,13 +173,13 @@ Click to expand and explore each project!
 
 <p align="center">
   <a href="https://github.com/Vijayapardhu">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vijayapardhu&show_icons=true&theme=react" alt="Vijayapardhu's GitHub stats" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Vijayapardhu&show_icons=true&theme=react" height="170" />
   </a>
   <a href="https://github.com/Vijayapardhu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayapardhu&theme=react" alt="GitHub Streak" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayapardhu&theme=react" height="170" />
   </a>
   <a href="https://github.com/Vijayapardhu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayapardhu&layout=compact&theme=react" alt="Top Languages" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayapardhu&layout=compact&theme=react" height="170" />
   </a>
 </p>
 
@@ -193,9 +190,9 @@ Click to expand and explore each project!
 <details>
   <summary>🤔 <b>Did You Know?</b></summary>
   <ul>
-    <li>I love challenging myself with hackathons and coding sprints!</li>
-    <li>I can build a fully functional app in <b>less than 48 hours</b>!</li>
-    <li>Ask me about custom Android solutions for your project! 🚀</li>
+    <li>I thrive in hackathons and coding marathons 🧠⚡</li>
+    <li>I’ve built complete apps in less than <b>48 hours</b> ⏱️</li>
+    <li>I offer custom Android solutions for small teams 🚀</li>
   </ul>
 </details>
 
@@ -209,5 +206,6 @@ Click to expand and explore each project!
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48" height="48" />
-  <b>Thanks for stopping by! Leave a ⭐ or say hi—let's connect and build something amazing together!</b>
+  <br>
+  <b>Thanks for visiting! Drop a ⭐ or let’s collaborate—together, we can build amazing things.</b>
 </p>
