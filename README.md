@@ -79,7 +79,7 @@ while contributing to **open-source** & building **meaningful tech for society**
 <p align="center">
   <a href="mailto:vijayapardhu17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Vijayapardhu"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge&logo=web"/></a>
+  <a href="https://vijayapardhu-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=web"/></a>
 </p>
 
 ---
