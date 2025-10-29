@@ -15,7 +15,7 @@
 - 🎓 **Diploma in Computer Engineering** @ Aditya College of Engineering, Surampalem *(2023–2026)*  
 - 📊 Current Academic Score: **76%**  
 - 🛠 Passionate about **Android Development, Web Technologies, AI Automation & Cloud Services**  
-- 👨‍💻 Built **16+ production-ready projects** serving colleges, churches, farmers, and communities  
+- 👨‍💻 Built **13+ production-ready projects** serving colleges, churches, farmers, and communities  
 - 🌐 Specialized in **Full-Stack Development** (Android, Django, Node.js, Firebase)  
 - 💡 Problem solver who transforms real-world challenges into digital solutions  
 - 🚀 Self-taught developer with expertise in **Firebase, REST APIs, and Modern Web Frameworks**  
@@ -63,7 +63,7 @@ while contributing to **open-source** & building **meaningful tech for society**
 | 📚 **[PolyVeda](https://github.com/Vijayapardhu/PolyVeda)** | Educational platform for polytechnic students | HTML, JavaScript | ⭐ 1 |
 | 📖 **[LMS](https://github.com/Vijayapardhu/LMS)** | Learning Management System for educational institutions | HTML, CSS | ⭐ 0 |
 
-🔗 **Explore all 16 repositories:** [github.com/Vijayapardhu](https://github.com/Vijayapardhu?tab=repositories)
+🔗 **Explore all repositories:** [github.com/Vijayapardhu](https://github.com/Vijayapardhu?tab=repositories)
 
 ---
 
@@ -97,19 +97,9 @@ while contributing to **open-source** & building **meaningful tech for society**
 ---
 
 ## 🏆 Achievements & Highlights  
-
-### 📈 Project Statistics
-- 📦 **16+ Repositories** spanning Android, Web, and Full-Stack Development  
-- ⭐ **25+ GitHub Stars** across various projects  
-- 🍴 **1 Fork** - Contributing to open-source ecosystem  
-- 🌍 **Multiple Production Apps** serving real users in education, agriculture, and faith communities  
-
-### 🎯 Notable Accomplishments
-- 🏅 Built **College Management System** with QR attendance, used by educational institutions  
-- 🌾 Developed **Farmazee** - Complete farming solution helping farmers with crop management  
-- 🧠 Created **HeySara** - AI-powered voice assistant with 2,000+ lines of code  
-- ⛪ Launched **Christian Lyrics Web** - Community platform for worship resources  
-- 💝 Implemented **GiveGrip** with secure payment gateway and multi-auth system  
+- 📦 **13+ Production Projects** spanning Android, Web, and Full-Stack Development  
+- ⭐ **20+ GitHub Stars** across various projects  
+- 🌍 **Real-world Applications** serving users in education, agriculture, and faith communities  
 - 📱 Published **multiple Android apps** with Firebase backend integration  
 - 🔥 Self-taught **Django, Node.js, Firebase, and Modern Cloud Services**  
 - 🎓 Maintained **76% academic score** while actively developing projects  
@@ -118,25 +108,6 @@ while contributing to **open-source** & building **meaningful tech for society**
 
 ## 🎨 Hobbies & Interests  
 🎧 Music & Podcasts | 📱 UI/UX Design | 🧪 Experimenting with New Technologies | 🧘‍♂ Bible Study & Meditation | 💡 Problem Solving | 🌟 Open Source Contribution  
-
----
-
-## 📂 Repository Breakdown  
-
-### 🎯 By Technology
-- **Android (Java/Kotlin)**: 3 projects (HeySara, Accident Alert, QuizLock App Gatekeeper)  
-- **Django (Python)**: 4 projects (Farmazee, GiveGrip, ChristianLyrics-Web, College Management System)  
-- **Web (HTML/CSS/JS)**: 8 projects (MechLocator, Personal Portfolio, Prayanam, LMS, PolyVeda, etc.)  
-- **Node.js**: 1 project (SBTET Results)  
-
-### 🌟 By Category
-- **Education**: College Management System, PolyVeda, LMS  
-- **Agriculture**: Farmazee  
-- **Faith & Community**: ChristianLyrics-Web, Prayanam, GiveGrip  
-- **Productivity**: HeySara, QuizLock App Gatekeeper  
-- **Safety**: Accident Alert  
-- **Services**: MechLocator  
-- **Academic Tools**: SBTET Results, Personal Portfolio  
 
 ---
 
