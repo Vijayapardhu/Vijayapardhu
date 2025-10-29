@@ -124,19 +124,19 @@ while contributing to **open-source** & building **meaningful tech for society**
 ## 📂 Repository Breakdown  
 
 ### 🎯 By Technology
-- **Android (Java/Kotlin)**: 5 projects (HeySara, College Management, Accident Alert, QuizLock, etc.)  
-- **Django (Python)**: 4 projects (Farmazee, GiveGrip, ChristianLyrics-Web, College-Management-System)  
-- **Web (HTML/CSS/JS)**: 7 projects (MechLocator, Personal Portfolio, Prayanam, LMS, etc.)  
+- **Android (Java/Kotlin)**: 3 projects (HeySara, Accident Alert, QuizLock App Gatekeeper)  
+- **Django (Python)**: 4 projects (Farmazee, GiveGrip, ChristianLyrics-Web, College Management System)  
+- **Web (HTML/CSS/JS)**: 8 projects (MechLocator, Personal Portfolio, Prayanam, LMS, PolyVeda, etc.)  
 - **Node.js**: 1 project (SBTET Results)  
 
 ### 🌟 By Category
-- **Education**: College Management, PolyVeda, LMS, StudyHelper  
+- **Education**: College Management System, PolyVeda, LMS  
 - **Agriculture**: Farmazee  
 - **Faith & Community**: ChristianLyrics-Web, Prayanam, GiveGrip  
 - **Productivity**: HeySara, QuizLock App Gatekeeper  
 - **Safety**: Accident Alert  
 - **Services**: MechLocator  
-- **Academic Tools**: SBTET Results  
+- **Academic Tools**: SBTET Results, Personal Portfolio  
 
 ---
 
