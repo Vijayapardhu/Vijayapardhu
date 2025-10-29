@@ -12,6 +12,7 @@
 ---
 
 ## ✨ About Me  
+- 🎉 **I'm a vibe coder** who brings energy, creativity, and fun to every project  
 - 🎓 **Diploma in Computer Engineering** @ Aditya College of Engineering, Surampalem *(2023–2026)*  
 - 📊 Current Score: **76%**  
 - 🛠 Passionate about **Android, Firebase, and AI Automation**  
@@ -30,11 +31,15 @@ while contributing to **open-source** & building **meaningful tech for society**
 
 | 🚀 Project | 📖 Description |
 |------------|----------------|
-| 🧠 **HeySara** | Voice-powered Android assistant with **AI automation** |
-| ⛪ **Church App** | Telugu Bible, songs, quotes, voice messages & prayer requests *(dual views)* |
-| 🌍 **Tourism Management System** | PHP-based platform with **admin + user dashboards** |
-| 🏫 **College Management System** | Android app with **QR attendance, tests, and admin features** |
-| 🧾 **SBTET Results Clone** | Node.js + Playwright tool to fetch **AP-SBTET results** |
+| 🧠 **[HeySara](https://github.com/Vijayapardhu/HeySara)** | Intelligent, all-in-one Android voice assistant for device control, messaging, reminders, & more—designed for privacy and accessibility |
+| 🚨 **[Accident-Alert](https://github.com/Vijayapardhu/Accident-Alert)** | Real-time accident detection and alert system for safer roads and communities |
+| 📊 **[sbtetap-results](https://github.com/Vijayapardhu/sbtetap-results)** | Node.js + Playwright tool to fetch AP-SBTET results efficiently |
+| 🔧 **[MechLocator](https://github.com/Vijayapardhu/MechLocator)** | Location-based platform to find nearby mechanics, built with Python, HTML, and JavaScript |
+| 🌾 **[farmazee](https://github.com/Vijayapardhu/farmazee)** | Django-powered smart farming suite: crop management, weather forecasting, and agricultural tools for farmers |
+| 🌍 **[Tourism-Management-System](https://github.com/Vijayapardhu/Tourism-Management-System)** | Complete PHP platform with dashboards for admin/user tourism management |
+| 💝 **[GiveGrip](https://github.com/Vijayapardhu/GiveGrip)** | Secure, scalable donation platform with Google login, OTP auth, payment gateways, and real-time tracking |
+| 🎓 **[PolyVeda](https://github.com/Vijayapardhu/PolyVeda)** | Polytechnic-focused platform for student resources and management |
+| 🌐 **[Personal-Portfolio](https://github.com/Vijayapardhu/Personal-Portfolio)** | Modern, responsive portfolio website showcasing skills and projects |
 
 🔗 Check out all my projects [here »](https://github.com/Vijayapardhu?tab=repositories)
 
