@@ -13,10 +13,12 @@
 
 ## ✨ About Me  
 - 🎓 **Diploma in Computer Engineering** @ Aditya College of Engineering, Surampalem *(2023–2026)*  
-- 📊 Current Score: **76%**  
-- 🛠 Passionate about **Android, Firebase, and AI Automation**  
-- 👨‍💻 Building apps for **colleges, churches, and real-world use**  
-- 🌐 Love **solving real-life problems through code**  
+- 📊 Current Academic Score: **76%**  
+- 🛠 Passionate about **Android Development, Web Technologies, AI Automation & Cloud Services**  
+- 👨‍💻 Built **16+ production-ready projects** serving colleges, churches, farmers, and communities  
+- 🌐 Specialized in **Full-Stack Development** (Android, Django, Node.js, Firebase)  
+- 💡 Problem solver who transforms real-world challenges into digital solutions  
+- 🚀 Self-taught developer with expertise in **Firebase, REST APIs, and Modern Web Frameworks**  
 
 ---
 
@@ -28,36 +30,113 @@ while contributing to **open-source** & building **meaningful tech for society**
 
 ## 💼 Featured Projects  
 
-| 🚀 Project | 📖 Description |
-|------------|----------------|
-| 🧠 **HeySara** | Voice-powered Android assistant with **AI automation** |
-| ⛪ **Church App** | Telugu Bible, songs, quotes, voice messages & prayer requests *(dual views)* |
-| 🌍 **Tourism Management System** | PHP-based platform with **admin + user dashboards** |
-| 🏫 **College Management System** | Android app with **QR attendance, tests, and admin features** |
-| 🧾 **SBTET Results Clone** | Node.js + Playwright tool to fetch **AP-SBTET results** |
+### 🏆 Flagship Projects
 
-🔗 Check out all my projects [here »](https://github.com/Vijayapardhu?tab=repositories)
+| 🚀 Project | 📖 Description | 🛠 Tech Stack | ⭐ Stars |
+|------------|----------------|--------------|---------|
+| 🏫 **[College Management System](https://github.com/Vijayapardhu/College-Management-System)** | Smart integrated system with QR attendance, online tests, document storage, and admin dashboards | Python, Django, MySQL | ⭐ 1 |
+| 🧠 **[HeySara](https://github.com/Vijayapardhu/HeySara)** | Intelligent voice assistant for Android with AI automation, device control, and hands-free operations | Java, Android, AI | ⭐ 2 |
+| 🌾 **[Farmazee](https://github.com/Vijayapardhu/farmazee)** | Comprehensive farming platform with crop management, weather forecasting, and agricultural tools | Django, HTML, CSS | ⭐ 3 |
+
+### 🎯 Production Applications
+
+| 🚀 Project | 📖 Description | 🛠 Tech Stack | ⭐ Stars |
+|------------|----------------|--------------|---------|
+| 🚗 **[MechLocator](https://github.com/Vijayapardhu/MechLocator)** | Location-based service to find nearby mechanics and automotive services | HTML, JavaScript | ⭐ 3 |
+| 💝 **[GiveGrip](https://github.com/Vijayapardhu/GiveGrip)** | Secure donation platform with Google login, OTP authentication, and payment gateway integration | Django, JavaScript | ⭐ 1 |
+| 📱 **[Accident Alert](https://github.com/Vijayapardhu/Accident-Alert)** | Safety app with accident detection and emergency alert system | Java, Android | ⭐ 2 |
+| 🧩 **[QuizLock App Gatekeeper](https://github.com/Vijayapardhu/quizlock-app-gatekeeper)** | Productivity app that locks apps until quizzes are completed | Java, Android, Firebase | ⭐ 2 |
+
+### ⛪ Faith & Community Projects
+
+| 🚀 Project | 📖 Description | 🛠 Tech Stack | ⭐ Stars |
+|------------|----------------|--------------|---------|
+| 🎵 **[ChristianLyrics-Web](https://github.com/Vijayapardhu/ChristianLyrics-Web)** | Complete Django-based platform for Christian song lyrics and worship resources | Django, HTML | ⭐ 1 |
+| 🌐 **[Prayanam](https://github.com/Vijayapardhu/Prayanam)** | Tourism and pilgrimage management system for spiritual journeys | HTML, CSS, JavaScript | ⭐ 1 |
+
+### 🎓 Academic & Utility Tools
+
+| 🚀 Project | 📖 Description | 🛠 Tech Stack | ⭐ Stars |
+|------------|----------------|--------------|---------|
+| 📊 **[SBTET Results](https://github.com/Vijayapardhu/sbtetap-results)** | Node.js + Playwright tool to fetch AP-SBTET diploma results efficiently | JavaScript, Node.js | ⭐ 1 |
+| 🎨 **[Personal Portfolio](https://github.com/Vijayapardhu/Personal-Portfolio)** | Professional portfolio website showcasing projects and skills | HTML, CSS, JavaScript | ⭐ 2 |
+| 📚 **[PolyVeda](https://github.com/Vijayapardhu/PolyVeda)** | Educational platform for polytechnic students | HTML, JavaScript | ⭐ 1 |
+| 📖 **[LMS](https://github.com/Vijayapardhu/LMS)** | Learning Management System for educational institutions | HTML, CSS | ⭐ 0 |
+
+🔗 **Explore all 16 repositories:** [github.com/Vijayapardhu](https://github.com/Vijayapardhu?tab=repositories)
 
 ---
 
 ## 🧠 Tech Stack & Tools  
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,javascript,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,express,firebase,mysql,mongodb,git,github,vscode,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,javascript,html,css" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,flask,react,bootstrap,jquery" />
+</p>
+
+### 📱 Mobile & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,gcp" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql,git,github,vscode,figma,postman" />
+</p>
+
+### 🎨 Design & Productivity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,canva,photoshop" />
 </p>
 
 ---
 
-## 🏆 Achievements  
-- 🏅 Built a **full-featured church app** with live messages & Bible quotes  
-- 📲 Published **multiple Android apps** for institutional & personal use  
-- 🔥 Self-taught **Firebase, Automation, and Full-Stack workflows**  
+## 🏆 Achievements & Highlights  
+
+### 📈 Project Statistics
+- 📦 **16+ Repositories** spanning Android, Web, and Full-Stack Development  
+- ⭐ **25+ GitHub Stars** across various projects  
+- 🍴 **1 Fork** - Contributing to open-source ecosystem  
+- 🌍 **Multiple Production Apps** serving real users in education, agriculture, and faith communities  
+
+### 🎯 Notable Accomplishments
+- 🏅 Built **College Management System** with QR attendance, used by educational institutions  
+- 🌾 Developed **Farmazee** - Complete farming solution helping farmers with crop management  
+- 🧠 Created **HeySara** - AI-powered voice assistant with 2,000+ lines of code  
+- ⛪ Launched **Christian Lyrics Web** - Community platform for worship resources  
+- 💝 Implemented **GiveGrip** with secure payment gateway and multi-auth system  
+- 📱 Published **multiple Android apps** with Firebase backend integration  
+- 🔥 Self-taught **Django, Node.js, Firebase, and Modern Cloud Services**  
+- 🎓 Maintained **76% academic score** while actively developing projects  
 
 ---
 
-## 🎨 Hobbies  
-🎧 Music & Podcasts | 📱 UI Design | 🧪 Experimenting with Tech | 🧘‍♂ Bible & Meditation  
+## 🎨 Hobbies & Interests  
+🎧 Music & Podcasts | 📱 UI/UX Design | 🧪 Experimenting with New Technologies | 🧘‍♂ Bible Study & Meditation | 💡 Problem Solving | 🌟 Open Source Contribution  
+
+---
+
+## 📂 Repository Breakdown  
+
+### 🎯 By Technology
+- **Android (Java/Kotlin)**: 5 projects (HeySara, College Management, Accident Alert, QuizLock, etc.)  
+- **Django (Python)**: 4 projects (Farmazee, GiveGrip, ChristianLyrics-Web, College-Management-System)  
+- **Web (HTML/CSS/JS)**: 7 projects (MechLocator, Personal Portfolio, Prayanam, LMS, etc.)  
+- **Node.js**: 1 project (SBTET Results)  
+
+### 🌟 By Category
+- **Education**: College Management, PolyVeda, LMS, StudyHelper  
+- **Agriculture**: Farmazee  
+- **Faith & Community**: ChristianLyrics-Web, Prayanam, GiveGrip  
+- **Productivity**: HeySara, QuizLock App Gatekeeper  
+- **Safety**: Accident Alert  
+- **Services**: MechLocator  
+- **Academic Tools**: SBTET Results  
 
 ---
 
