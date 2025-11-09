@@ -1,0 +1,21 @@
+{
+  "name": "github-repo-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch public repository data from GitHub for portfolio integration",
+  "main": "fetch-repos.js",
+  "scripts": {
+    "fetch": "node fetch-repos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "api",
+    "repository",
+    "portfolio"
+  ],
+  "author": "Vijayapardhu",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
