@@ -17,6 +17,8 @@ const fs = require('fs');
 
 // Configuration
 const username = process.env.GITHUB_USERNAME || 'Vijayapardhu';
+// GitHub token for authentication (never logged for security)
+// lgtm[js/clear-text-logging]
 const token = process.env.GITHUB_TOKEN || null;
 const perPage = 100;
 const outputFile = 'repos-data.json';
@@ -116,6 +118,8 @@ function transformRepoData(repos) {
 async function main() {
   console.log('='.repeat(50));
   console.log('GitHub Repository Data Fetcher');
+  console.log('='.repeat(50));
+  console.log(`Authentication: ${token ? 'Enabled (using token)' : 'Disabled (unauthenticated)'}`);
   console.log('='.repeat(50));
   
   try {
