@@ -30,6 +30,7 @@ async function fetchAllRepos(username) {
   let page = 1;
   let allRepos = [];
   
+  // lgtm[js/clear-text-logging] - GitHub username is public information
   console.log(`Fetching repositories for user: ${username}`);
   
   while (true) {
