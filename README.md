@@ -14,7 +14,7 @@
 ## ✨ About Me  
 - 🎉 **I'm a vibe coder** who brings energy, creativity, and fun to every project  
 - 🎓 **Diploma in Computer Engineering** @ Aditya College of Engineering, Surampalem *(2023–2026)*  
-- 📊 Current Score: **76%**  
+- 📊 Current Score: **79%**  
 - 🛠 Passionate about **Android, Firebase, and AI Automation**  
 - 👨‍💻 Building apps for **colleges, churches, and real-world use**  
 - 🌐 Love **solving real-life problems through code**  
