@@ -1,84 +1,99 @@
 <div align="center">
 
-<h1>VIJAYA PARDHU</h1>
-<h4>Software Developer &nbsp;·&nbsp; Android &amp; Full-Stack Web &amp; AI Automation</h4>
+# Vijaya Pardhu
 
-<a href="https://vijayapardhu.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /></a>
-<a href="mailto:vijayapardhu17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1F3A?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
-<a href="https://github.com/Vijayapardhu"><img src="https://img.shields.io/badge/GITHUB-0B1F3A?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+Android + Full-Stack Web Developer · AI Automation Builder
+
+<a href="https://vijayapardhu.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" /></a>
+<a href="mailto:vijayapardhu17@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
+<a href="https://github.com/Vijayapardhu"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
+
+<img src="https://img.shields.io/github/followers/Vijayapardhu?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logoColor=7AA2F7&label=followers" />
+<img src="https://komarev.com/ghpvc/?username=Vijayapardhu&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br>
+
+## 👋 About Me
+
+I build practical, production-oriented software — Android applications, web platforms, and AI-driven automation tools. My work spans institutional systems, community platforms, and freelance client delivery, with a focus on shipping things that actually get used.
+
+- 🎓 B.Tech, Computer Science & Engineering *(Lateral Entry)* — Aditya University, *current*
+- 🎓 Diploma in Computer Engineering — Aditya College of Engineering, Surampalem *(2023–2026, CGPA 7.9)*
+- 💼 Open to freelance and collaborative opportunities
 
 <br>
 
-## About
-
-I build practical, production-oriented software — Android applications, web platforms, and AI-driven automation tools. My work spans institutional systems, community platforms, and freelance client delivery, with a focus on shipping things that are actually used.
-
-**Education**
-&nbsp;&nbsp;▸ B.Tech, Computer Science &amp; Engineering *(Lateral Entry)* — Aditya University, *current*
-&nbsp;&nbsp;▸ Diploma in Computer Engineering — Aditya College of Engineering, Surampalem, *2023–2026 · CGPA 7.9*
-
-<br>
-
-## Technical Skills
-
-<p>
-<img src="https://img.shields.io/badge/Java-0B1F3A?style=flat-square&logo=openjdk&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Kotlin-0B1F3A?style=flat-square&logo=kotlin&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/PHP-0B1F3A?style=flat-square&logo=php&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=D4AF37" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Android_Studio-0B1F3A?style=flat-square&logo=androidstudio&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Node.js-0B1F3A?style=flat-square&logo=nodedotjs&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Express-0B1F3A?style=flat-square&logo=express&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Django-0B1F3A?style=flat-square&logo=django&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Firebase-0B1F3A?style=flat-square&logo=firebase&logoColor=D4AF37" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/MySQL-0B1F3A?style=flat-square&logo=mysql&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/MongoDB-0B1F3A?style=flat-square&logo=mongodb&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Git-0B1F3A?style=flat-square&logo=git&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/VS_Code-0B1F3A?style=flat-square&logo=visualstudiocode&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Figma-0B1F3A?style=flat-square&logo=figma&logoColor=D4AF37" />
-</p>
-
-<br>
-
-## Selected Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [**HeySara**](https://github.com/Vijayapardhu/HeySara) | Privacy-focused Android voice assistant for device control, messaging, and reminders | Kotlin · Android |
-| [**Accident-Alert**](https://github.com/Vijayapardhu/Accident-Alert) | Real-time accident detection and alert system | Android · Firebase |
-| [**GiveGrip**](https://github.com/Vijayapardhu/GiveGrip) | Donation platform with Google login, OTP auth, payment gateways, and live tracking | Firebase · JavaScript |
-| [**farmazee**](https://github.com/Vijayapardhu/farmazee) | Smart farming suite — crop management, weather forecasting, agri tools | Django · Python |
-| [**Tourism-Management-System**](https://github.com/Vijayapardhu/Tourism-Management-System) | Admin/user dashboard platform for tourism management | PHP · MySQL |
-| [**sbtetap-results**](https://github.com/Vijayapardhu/sbtetap-results) | Automated result-fetching tool for AP-SBTET | Node.js · Playwright |
-| [**MechLocator**](https://github.com/Vijayapardhu/MechLocator) | Location-based platform to find nearby mechanics | Python · JavaScript |
-| [**PolyVeda**](https://github.com/Vijayapardhu/PolyVeda) | Resource and management platform for polytechnic students | PHP · MySQL |
-| [**Personal-Portfolio**](https://github.com/Vijayapardhu/Personal-Portfolio) | Personal portfolio site | HTML · CSS · JS |
-
-<!-- Additional projects (send names/links to add): VFFT tournament platform, Creative Digital Services work, etc. -->
-
-<a href="https://github.com/Vijayapardhu?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0B1F3A?style=for-the-badge&logoColor=D4AF37" /></a>
-
-<br>
-<br>
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vijayapardhu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&icon_color=D4AF37&text_color=E8E8E8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayapardhu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&text_color=E8E8E8" height="165"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,php,ts,js,androidstudio,flutter,react,nodejs,express,django,firebase,mysql,mongodb,git,vscode,figma,vercel&theme=dark&perline=10" />
 </div>
 
----
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr><td>
+
+**[HeySara](https://github.com/Vijayapardhu/HeySara)**
+Privacy-focused, all-in-one voice assistant for Android — device control, messaging, calls, reminders, all hands-free.
+
+![Language](https://img.shields.io/github/languages/top/Vijayapardhu/HeySara?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+![Stars](https://img.shields.io/github/stars/Vijayapardhu/HeySara?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/Vijayapardhu/HeySara?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+[![Live Demo](https://img.shields.io/badge/live_demo-7AA2F7?style=flat-square&logo=vercel&logoColor=1a1b27)](https://heysara-assistant.vercel.app)
+
+</td></tr>
+<tr><td>
+
+**[handy](https://github.com/Vijayapardhu/handy)**
+Dart app, AGPL-3.0 licensed.
+
+![Language](https://img.shields.io/github/languages/top/Vijayapardhu/handy?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+![Stars](https://img.shields.io/github/stars/Vijayapardhu/handy?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/Vijayapardhu/handy?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+[![Live Demo](https://img.shields.io/badge/live_demo-7AA2F7?style=flat-square&logo=vercel&logoColor=1a1b27)](https://handy.vijayaapardhu.dev)
+
+</td></tr>
+<tr><td>
+
+**[Campus-Connect](https://github.com/Vijayapardhu/Campus-Connect)**
+Encrypted, room-based LAN clipboard & chat — copy on one laptop, paste on another, no cloud, no account.
+
+![Language](https://img.shields.io/github/languages/top/Vijayapardhu/Campus-Connect?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+![Stars](https://img.shields.io/github/stars/Vijayapardhu/Campus-Connect?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/Vijayapardhu/Campus-Connect?style=flat-square&color=7AA2F7&labelColor=1a1b27)
+[![Live Demo](https://img.shields.io/badge/live_demo-7AA2F7?style=flat-square&logo=vercel&logoColor=1a1b27)](https://cc.vijayaapardhu.dev/)
+
+</td></tr>
+</table>
 
 <div align="center">
-<sub>Open to freelance and collaborative opportunities in Android, web, and AI-driven development.</sub>
+
+[![View all repositories](https://img.shields.io/badge/View_All_Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/Vijayapardhu?tab=repositories&sort=updated)
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Vijayapardhu&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Vijayapardhu&label=public%20repos&query=%24.public_repos&style=flat-square&color=7AA2F7&labelColor=1a1b27)
+![Followers](https://img.shields.io/github/followers/Vijayapardhu?style=flat-square&color=7AA2F7&labelColor=1a1b27&label=followers)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Badges above pull live from the GitHub API on every view.</sub>
 </div>
