@@ -4,7 +4,7 @@
 
 Android + Full-Stack Web Developer · AI Automation Builder
 
-<a href="https://vijayapardhu.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" /></a>
+<a href="https://vijayaapardhu.dev/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" /></a>
 <a href="mailto:vijayapardhu17@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
 <a href="https://github.com/Vijayapardhu"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
 
